@@ -1,0 +1,2 @@
+# Optional but recommended — improves TLS compatibility with Cloudflare, reverse proxies, etc.
+requests>=2.28
